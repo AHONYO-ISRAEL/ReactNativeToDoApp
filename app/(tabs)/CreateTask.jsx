@@ -1,10 +1,10 @@
 import { View, Text } from "react-native"
-const Home = () => {
+const CreateTask = () => {
   return (
     <View>
-      <Text>TaskList</Text>
+      <Text>CreateTask</Text>
     </View>
   )
 }
 
-export default Home
+export default CreateTask
